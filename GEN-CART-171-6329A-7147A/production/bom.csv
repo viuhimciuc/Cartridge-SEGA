@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,CP_Radial_D5.0mm_P2.50mm,1,47uF 16V,
+C2,C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal,1,0.1uF,
+CATR1,PCB_revA-CART-64-2.54-CONN,1,EDGE-CONN-64-PIN-PCB_BASIC_revA,
+"JP1, JP2",Jumper_P10.16mm_D0.7mm,2,Jumper_2_Open,
+U1,DIP-42_W15.24mm,1,MX29F1615,

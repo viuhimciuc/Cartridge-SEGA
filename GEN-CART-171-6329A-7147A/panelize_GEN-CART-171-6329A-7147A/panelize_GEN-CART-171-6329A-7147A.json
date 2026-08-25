@@ -1,0 +1,29 @@
+{
+    "layout": {
+        "alternation": "rows",
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rotation": "180deg",
+        "rows": "2",
+        "vbonecut": "False"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "5mm",
+        "hwidth": "5mm",
+        "vcount": "2"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "prolong": "0.5mm"
+    },
+    "framing": {
+        "type": "railslr"
+    },
+    "page": {
+        "posy": "50mm"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}
