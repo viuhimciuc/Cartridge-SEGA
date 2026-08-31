@@ -23,23 +23,19 @@ The project is organized into several key hardware modules:
 ## 🛠️ Built With
 
 *   [KiCad EDA](https://www.kicad.org/) — A Cross-Platform and Open Source Electronics Design Automation Suite.
-*   **Interactive HTML BOM** — For easy component placement and assembly.
 
 ---
 
 ## 📸 Gallery & Visuals
 
-> 💡 **Tip:** Add interactive 3D renders or real PCB photos here to make your repository stand out!
-
 ### 🔧 Component Placement / PCB Layout Preview
-You can place your KiCad 3D renders or schematics plots in an `images/` directory inside your repository:
 
 ```markdown
-<!-- Replace these placeholders with your actual image paths once uploaded to GitHub -->
-<p align="center">
-  <img src="images/pcb_front_preview.png" alt="PCB Front Render" width="45%">
-  <img src="images/pcb_back_preview.png" alt="PCB Back Render" width="45%">
-</p>
+p align="center">
+  img src="GEN-CART-171-6329A-7147A/Documents/GEN-CART-171-6329A-7147A_top.png" alt="PCB GEN-CART-171-6329A-7147A" width="45%">
+  img src="GEN-CART-171-6570A/Documents/GEN-CART-171-6570A_top.png" alt="PCB GEN-CART-171-6570A" width="45%">
+  img src="GEN-CART-171-6570A_MultiGames/Documents/GEN-CART-171-6570A_MultiGames_top.png" alt="PCB GEN-CART-171-6570A MultiGames" width="45%">
+/p>
 ```
 
 ---
