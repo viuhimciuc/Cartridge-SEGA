@@ -30,13 +30,12 @@ The project is organized into several key hardware modules:
 
 ### 🔧 Component Placement / PCB Layout Preview
 
-```markdown
-p align="center">
-  img src="GEN-CART-171-6329A-7147A/Documents/GEN-CART-171-6329A-7147A_top.png" alt="PCB GEN-CART-171-6329A-7147A" width="45%">
-  img src="GEN-CART-171-6570A/Documents/GEN-CART-171-6570A_top.png" alt="PCB GEN-CART-171-6570A" width="45%">
-  img src="GEN-CART-171-6570A_MultiGames/Documents/GEN-CART-171-6570A_MultiGames_top.png" alt="PCB GEN-CART-171-6570A MultiGames" width="45%">
-/p>
-```
+<p align="center">
+  <img src="GEN-CART-171-6329A-7147A/Documents/GEN-CART-171-6329A-7147A_top.png" alt="PCB GEN-CART-171-6329A-7147A" width="31%">
+  <img src="GEN-CART-171-6570A/Documents/GEN-CART-171-6570A_top.png" alt="PCB GEN-CART-171-6570A" width="31%">
+  <img src="GEN-CART-171-6570A_MultiGames/Documents/GEN-CART-171-6570A_MultiGames_top.png" alt="PCB GEN-CART-171-6570A MultiGames" width="31%">
+  <img src="TSOP_Adapter_M29FxxxF/TSOP_Adapter_M29FxxxF_top.png" alt="PCB TSOP Adapter M29FxxxF" width="31%">
+</p>
 
 ---
 
